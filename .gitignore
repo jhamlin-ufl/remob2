@@ -1,3 +1,7 @@
+# Added by JH 04/03/2023
+publication_ready/example_figure_01.pdf
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
