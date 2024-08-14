@@ -1,5 +1,4 @@
 # Added by JH 04/03/2023
-publication_ready/example_figure_01.pdf
 data/
 
 # Byte-compiled / optimized / DLL files
@@ -131,9 +130,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Added by Shubham
-notebooks/Cu2IrO3_Run3_plots.ipynb
-notebooks/MoB2_external.ipynb
-notebooks/Spectra_fileCheck.ipynb
-notebooks/Testing_stuff.ipynb

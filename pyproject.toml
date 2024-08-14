@@ -1,8 +1,9 @@
 [tool.poetry]
-name = "hamlinlab_template"
+name = "ReMoB2"
 version = "0.1.0"
-description = "A starting point for data analysis in the Hamlin Lab"
-authors = ["jhamlin-ufl <jhamlin@ufl.edu>"]
+description = "Data analysis associated with (Re,Mo)B2 study"
+authors = ["Shubham Sinha", "James Hamlin"]
+package-mode = false
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
