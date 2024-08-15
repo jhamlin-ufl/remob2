@@ -18,6 +18,7 @@ lmfit = "^1.1.0"
 hamlinlab = {git = "https://github.com/jhamlin-ufl/hamlinlab.git", branch = "main"}
 #hamlinlab = {git = "github.com:jhamlin-ufl/hamlinlab.git", branch = "main"}
 jupyterlab = "^3.6.1"
+openpyxl = "^3.1.5"
 
 [tool.poetry.dev-dependencies]
 
