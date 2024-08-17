@@ -1,35 +1,4 @@
-"Histogram","PWDR 1_ReMoB2_0bars_0p2GPa_S_P1_C1_D1w_010.fxye Bank 1"
-"Instparm: Type","PXC"
-"Instparm: Bank",      1.00
-"Instparm: Lam",  0.413263
-"Instparm: Polariz.",      0.99
-"Instparm: Azimuth",      0.00
-"Instparm: Zero", -0.000383
-"Instparm: U",    234.80
-"Instparm: V",    -21.61
-"Instparm: W",      7.33
-"Instparm: X",      0.00
-"Instparm: Y",      0.00
-"Instparm: Z",      0.00
-"Instparm: SH/L",      0.00
-"Samparm: InstrName",
-"Samparm: Scale",      0.04
-"Samparm: Type",Debye-Scherrer
-"Samparm: DisplaceX",    -43.90
-"Samparm: DisplaceY",    -55.13
-"Samparm: Temperature",    300.00
-"Samparm: Pressure",      0.10
-"Samparm: Time",      0.00
-"Samparm: Gonio. radius",    200.00
-"Samparm: Omega",      0.00
-"Samparm: Chi",      0.00
-"Samparm: Phi",      0.00
-"Samparm: Azimuth",      0.00
-"Samparm: SurfRoughA",      0.00
-"Samparm: SurfRoughB",      0.00
-"Samparm: Shift",      0.00
-"Samparm: Transparency",      0.00
-"x","y_obs","weight","y_calc","y_bkg","Q"
+x,y_obs,weight,y_calc,y_bkg,Q
 1.31866,106.835,0.00936023,0,0,0.35001
 1.33766,104.417,0.00957692,0,0,0.355051
 1.35666,108.385,0.00922639,0,0,0.360093
