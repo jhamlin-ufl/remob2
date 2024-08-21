@@ -4,3 +4,4 @@
 - If you want to know the pressure corresponding to 1.gpx, 2.gpx, etc, look in refinements.pdf.
 - refinements.pdf collects the figures for all the refinements.
 - lattice_parameters.csv collects the lattice parameters resulting from the refinements.
+- Other .csv file specify location of reflections.
