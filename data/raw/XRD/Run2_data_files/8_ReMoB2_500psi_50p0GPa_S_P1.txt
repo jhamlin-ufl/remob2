@@ -1,0 +1,12 @@
+Data collection values for: 8_ReMoB2_500psi_50p0GPa_S_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+28 Feb 2023 17:55:40   8_ReMoB2_500psi_50p0GPa_S_P1_C1_D1w_055.tif    9.969   -0.203   -0.116   90.000    -2.00     2.00     1       40.000     140105
+28 Feb 2023 17:56:25   8_ReMoB2_500psi_50p0GPa_S_P1_C2_D1w_056.tif    9.969   -0.203   -0.105   90.000    -2.00     2.00     1       40.000     139844
+28 Feb 2023 17:57:09   8_ReMoB2_500psi_50p0GPa_S_P1_C3_D1w_057.tif    9.969   -0.193   -0.116   90.000    -2.00     2.00     1       40.000     139800
+28 Feb 2023 17:57:54   8_ReMoB2_500psi_50p0GPa_S_P1_C4_D1w_058.tif    9.969   -0.204   -0.126   90.000    -2.00     2.00     1       40.000     140146
+28 Feb 2023 17:58:38   8_ReMoB2_500psi_50p0GPa_S_P1_C5_D1w_059.tif    9.969   -0.215   -0.116   90.000    -2.00     2.00     1       40.000     139887
+28 Feb 2023 17:59:23   8_ReMoB2_500psi_50p0GPa_S_P1_C6_D1w_060.tif    9.969   -0.175   -0.118   90.000    -2.00     2.00     1       40.000     139898

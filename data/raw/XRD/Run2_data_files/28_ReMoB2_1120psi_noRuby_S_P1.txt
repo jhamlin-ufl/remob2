@@ -1,0 +1,12 @@
+Data collection values for: 28_ReMoB2_1120psi_noRuby_S_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+28 Feb 2023 23:23:28   28_ReMoB2_1120psi_noRuby_S_P1_C1_D1w_175.tif    9.969   -0.197   -0.120   90.000    -2.00     2.00     1       40.000     137826
+28 Feb 2023 23:24:12   28_ReMoB2_1120psi_noRuby_S_P1_C2_D1w_176.tif    9.969   -0.198   -0.107   90.000    -2.00     2.00     1       40.000     137826
+28 Feb 2023 23:24:57   28_ReMoB2_1120psi_noRuby_S_P1_C3_D1w_177.tif    9.969   -0.188   -0.118   90.000    -2.00     2.00     1       40.000     137610
+28 Feb 2023 23:25:42   28_ReMoB2_1120psi_noRuby_S_P1_C4_D1w_178.tif    9.969   -0.197   -0.132   90.000    -2.00     2.00     1       40.000     137995
+28 Feb 2023 23:26:26   28_ReMoB2_1120psi_noRuby_S_P1_C5_D1w_179.tif    9.969   -0.207   -0.120   90.000    -2.00     2.00     1       40.000     137832
+28 Feb 2023 23:27:11   28_ReMoB2_1120psi_noRuby_S_P1_C6_D1w_180.tif    9.969   -0.171   -0.119   90.000    -2.00     2.00     1       40.000     137658

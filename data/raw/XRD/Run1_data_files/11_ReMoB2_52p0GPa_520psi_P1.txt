@@ -1,0 +1,12 @@
+Data collection values for: 11_ReMoB2_52p0GPa_520psi_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+10 Jul 2022 20:13:18   11_ReMoB2_52p0GPa_520psi_P1_C1_D1w_080.tif    5.576   -0.822   -0.429   90.000    -2.00     2.00     1       40.000     329551
+10 Jul 2022 20:14:03   11_ReMoB2_52p0GPa_520psi_P1_C2_D1w_081.tif    5.576   -0.823   -0.416   90.000    -2.00     2.00     1       40.000     329228
+10 Jul 2022 20:14:48   11_ReMoB2_52p0GPa_520psi_P1_C3_D1w_082.tif    5.576   -0.815   -0.429   90.000    -2.00     2.00     1       40.000     329169
+10 Jul 2022 20:15:33   11_ReMoB2_52p0GPa_520psi_P1_C4_D1w_083.tif    5.576   -0.820   -0.443   90.000    -2.00     2.00     1       40.000     329065
+10 Jul 2022 20:16:18   11_ReMoB2_52p0GPa_520psi_P1_C5_D1w_084.tif    5.576   -0.829   -0.430   90.000    -2.00     2.00     1       40.000     329087
+10 Jul 2022 20:17:02   11_ReMoB2_52p0GPa_520psi_P1_C6_D1w_085.tif    5.576   -0.846   -0.392   90.000    -2.00     2.00     1       40.000     328816

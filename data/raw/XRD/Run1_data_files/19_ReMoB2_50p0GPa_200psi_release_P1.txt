@@ -1,0 +1,12 @@
+Data collection values for: 19_ReMoB2_50p0GPa_200psi_release_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+10 Jul 2022 23:45:05   19_ReMoB2_50p0GPa_200psi_release_P1_C1_D1w_129.tif    5.576   -0.831   -0.427   90.000    -2.00     2.00     1       40.000     302087
+10 Jul 2022 23:45:49   19_ReMoB2_50p0GPa_200psi_release_P1_C2_D1w_130.tif    5.576   -0.832   -0.415   90.000    -2.00     2.00     1       40.000     302144
+10 Jul 2022 23:46:34   19_ReMoB2_50p0GPa_200psi_release_P1_C3_D1w_131.tif    5.576   -0.825   -0.429   90.000    -2.00     2.00     1       40.000     302183
+10 Jul 2022 23:47:19   19_ReMoB2_50p0GPa_200psi_release_P1_C4_D1w_132.tif    5.576   -0.832   -0.437   90.000    -2.00     2.00     1       40.000     301807
+10 Jul 2022 23:48:04   19_ReMoB2_50p0GPa_200psi_release_P1_C5_D1w_133.tif    5.576   -0.837   -0.427   90.000    -2.00     2.00     1       40.000     301907
+10 Jul 2022 23:48:49   19_ReMoB2_50p0GPa_200psi_release_P1_C6_D1w_134.tif    5.576   -0.852   -0.387   90.000    -2.00     2.00     1       40.000     301783

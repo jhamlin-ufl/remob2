@@ -1,0 +1,5 @@
+- "calibration" contains the files to calibrate dioptas.
+- "JCPDS" files are similar to .cif files and are used to compare theoretical/experimental XRD patterns of different structures.
+- "Run1_XRD" processed files (.mask, .dat, and .fxye) for Run 1
+- "Run2_XRD" processed files (.mask, .dat, and .fxye) for Run 2
+- Measurement_details.pdf contains information about beam positioning on the pressure cell, and rough estimates of the pressure.

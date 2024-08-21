@@ -1,0 +1,12 @@
+Data collection values for: 2_ReMoB2_355bars_6p1GPa_S_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+28 Feb 2023 14:39:16   2_ReMoB2_355bars_6p1GPa_S_P1_C1_D1w_019.tif    9.969   -0.204   -0.115   90.000    -2.00     2.00     1       40.000     142660
+28 Feb 2023 14:40:00   2_ReMoB2_355bars_6p1GPa_S_P1_C2_D1w_020.tif    9.969   -0.204   -0.101   90.000    -2.00     2.00     1       40.000     142938
+28 Feb 2023 14:40:45   2_ReMoB2_355bars_6p1GPa_S_P1_C3_D1w_021.tif    9.969   -0.195   -0.113   90.000    -2.00     2.00     1       40.000     142727
+28 Feb 2023 14:41:29   2_ReMoB2_355bars_6p1GPa_S_P1_C4_D1w_022.tif    9.969   -0.203   -0.129   90.000    -2.00     2.00     1       40.000     142953
+28 Feb 2023 14:42:14   2_ReMoB2_355bars_6p1GPa_S_P1_C5_D1w_023.tif    9.969   -0.213   -0.115   90.000    -2.00     2.00     1       40.000     142946
+28 Feb 2023 14:42:58   2_ReMoB2_355bars_6p1GPa_S_P1_C6_D1w_024.tif    9.969   -0.179   -0.118   90.000    -2.00     2.00     1       40.000     142713

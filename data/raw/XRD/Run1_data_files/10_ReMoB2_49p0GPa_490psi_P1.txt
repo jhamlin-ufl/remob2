@@ -1,0 +1,12 @@
+Data collection values for: 10_ReMoB2_49p0GPa_490psi_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+10 Jul 2022 19:54:25   10_ReMoB2_49p0GPa_490psi_P1_C1_D1w_074.tif    5.576   -0.820   -0.433   90.000    -2.00     2.00     1       40.000     332648
+10 Jul 2022 19:55:10   10_ReMoB2_49p0GPa_490psi_P1_C2_D1w_075.tif    5.576   -0.819   -0.421   90.000    -2.00     2.00     1       40.000     332466
+10 Jul 2022 19:55:55   10_ReMoB2_49p0GPa_490psi_P1_C3_D1w_076.tif    5.576   -0.811   -0.432   90.000    -2.00     2.00     1       40.000     332394
+10 Jul 2022 19:56:40   10_ReMoB2_49p0GPa_490psi_P1_C4_D1w_077.tif    5.576   -0.819   -0.445   90.000    -2.00     2.00     1       40.000     332472
+10 Jul 2022 19:57:25   10_ReMoB2_49p0GPa_490psi_P1_C5_D1w_078.tif    5.576   -0.826   -0.434   90.000    -2.00     2.00     1       40.000     332322
+10 Jul 2022 19:58:10   10_ReMoB2_49p0GPa_490psi_P1_C6_D1w_079.tif    5.576   -0.844   -0.389   90.000    -2.00     2.00     1       40.000     332205

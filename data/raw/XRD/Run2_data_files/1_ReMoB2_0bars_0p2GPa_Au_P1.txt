@@ -1,0 +1,15 @@
+Data collection values for: 1_ReMoB2_0bars_0p2GPa_Au_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+28 Feb 2023 12:01:44   1_ReMoB2_0bars_0p2GPa_Au_P1_C1_D1w_001.tif    9.969   -0.216   -0.090   90.000    -2.00     2.00     1       40.000     145357
+28 Feb 2023 12:02:28   1_ReMoB2_0bars_0p2GPa_Au_P1_C2_D1w_002.tif    9.969   -0.196   -0.097   90.000    -2.00     2.00     1       40.000     145207
+28 Feb 2023 12:03:13   1_ReMoB2_0bars_0p2GPa_Au_P1_C3_D1w_003.tif    9.969   -0.237   -0.100   90.000    -2.00     2.00     1       40.000     145068
+28 Feb 2023 12:03:58   1_ReMoB2_0bars_0p2GPa_Au_P1_C4_D1w_004.tif    9.969   -0.186   -0.124   90.000    -2.00     2.00     1       40.000     145298
+28 Feb 2023 12:04:42   1_ReMoB2_0bars_0p2GPa_Au_P1_C5_D1w_005.tif    9.969   -0.197   -0.139   90.000    -2.00     2.00     1       40.000     145055
+28 Feb 2023 12:05:27   1_ReMoB2_0bars_0p2GPa_Au_P1_C6_D1w_006.tif    9.969   -0.211   -0.145   90.000    -2.00     2.00     1       40.000     145247
+28 Feb 2023 12:06:11   1_ReMoB2_0bars_0p2GPa_Au_P1_C7_D1w_007.tif    9.969   -0.224   -0.144   90.000    -2.00     2.00     1       40.000     145249
+28 Feb 2023 12:06:56   1_ReMoB2_0bars_0p2GPa_Au_P1_C8_D1w_008.tif    9.969   -0.238   -0.134   90.000    -2.00     2.00     1       40.000     145097
+28 Feb 2023 12:07:40   1_ReMoB2_0bars_0p2GPa_Au_P1_C9_D1w_009.tif    9.969   -0.242   -0.118   90.000    -2.00     2.00     1       40.000     145420

@@ -1,0 +1,12 @@
+Data collection values for: 3_ReMoB2_400psi_13p8GPa_S_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+28 Feb 2023 15:28:57   3_ReMoB2_400psi_13p8GPa_S_P1_C1_D1w_025.tif    9.969   -0.205   -0.116   90.000    -2.00     2.00     1       40.000     141846
+28 Feb 2023 15:29:42   3_ReMoB2_400psi_13p8GPa_S_P1_C2_D1w_026.tif    9.969   -0.205   -0.103   90.000    -2.00     2.00     1       40.000     142143
+28 Feb 2023 15:30:26   3_ReMoB2_400psi_13p8GPa_S_P1_C3_D1w_027.tif    9.969   -0.195   -0.115   90.000    -2.00     2.00     1       40.000     142083
+28 Feb 2023 15:31:11   3_ReMoB2_400psi_13p8GPa_S_P1_C4_D1w_028.tif    9.969   -0.205   -0.126   90.000    -2.00     2.00     1       40.000     141789
+28 Feb 2023 15:31:55   3_ReMoB2_400psi_13p8GPa_S_P1_C5_D1w_029.tif    9.969   -0.216   -0.115   90.000    -2.00     2.00     1       40.000     141617
+28 Feb 2023 15:32:40   3_ReMoB2_400psi_13p8GPa_S_P1_C6_D1w_030.tif    9.969   -0.180   -0.119   90.000    -2.00     2.00     1       40.000     141319

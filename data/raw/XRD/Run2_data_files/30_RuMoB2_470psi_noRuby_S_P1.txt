@@ -1,0 +1,12 @@
+Data collection values for: 30_RuMoB2_470psi_noRuby_S_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+01 Mar 2023 07:46:51   30_RuMoB2_470psi_noRuby_S_P1_C1_D1w_187.tif    9.886   -0.202   -0.115   90.000    -2.00     2.00     1       40.000     140549
+01 Mar 2023 07:47:35   30_RuMoB2_470psi_noRuby_S_P1_C2_D1w_188.tif    9.886   -0.202   -0.101   90.000    -2.00     2.00     1       40.000     140269
+01 Mar 2023 07:48:20   30_RuMoB2_470psi_noRuby_S_P1_C3_D1w_189.tif    9.886   -0.190   -0.114   90.000    -2.00     2.00     1       40.000     140625
+01 Mar 2023 07:49:04   30_RuMoB2_470psi_noRuby_S_P1_C4_D1w_190.tif    9.886   -0.201   -0.128   90.000    -2.00     2.00     1       40.000     140620
+01 Mar 2023 07:49:49   30_RuMoB2_470psi_noRuby_S_P1_C5_D1w_191.tif    9.886   -0.214   -0.115   90.000    -2.00     2.00     1       40.000     140398
+01 Mar 2023 07:50:33   30_RuMoB2_470psi_noRuby_S_P1_C6_D1w_192.tif    9.886   -0.176   -0.115   90.000    -2.00     2.00     1       40.000     140325

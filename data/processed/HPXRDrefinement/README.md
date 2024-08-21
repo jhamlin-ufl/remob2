@@ -1,0 +1,6 @@
+- .gpx files are GSAS-II project files.
+- Files 1-15 correspond to the first 15 data points taken during run 2.
+- For datapoint 15 up, we used sequential refinement (see sequential_15toend.gpx).
+- If you want to know the pressure corresponding to 1.gpx, 2.gpx, etc, look in refinements.pdf.
+- refinements.pdf collects the figures for all the refinements.
+- lattice_parameters.csv collects the lattice parameters resulting from the refinements.

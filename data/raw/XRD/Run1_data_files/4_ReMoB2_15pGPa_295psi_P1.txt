@@ -1,0 +1,12 @@
+Data collection values for: 4_ReMoB2_15pGPa_295psi_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+10 Jul 2022 16:27:54   4_ReMoB2_15pGPa_295psi_P1_C1_D1w_038.tif    5.592   -0.810   -0.430   90.000    -2.00     2.00     1       40.000     284516
+10 Jul 2022 16:28:39   4_ReMoB2_15pGPa_295psi_P1_C2_D1w_039.tif    5.592   -0.812   -0.405   90.000    -2.00     2.00     1       40.000     284504
+10 Jul 2022 16:29:24   4_ReMoB2_15pGPa_295psi_P1_C3_D1w_040.tif    5.592   -0.796   -0.426   90.000    -2.00     2.00     1       40.000     284350
+10 Jul 2022 16:30:09   4_ReMoB2_15pGPa_295psi_P1_C4_D1w_041.tif    5.592   -0.809   -0.449   90.000    -2.00     2.00     1       40.000     284389
+10 Jul 2022 16:30:54   4_ReMoB2_15pGPa_295psi_P1_C5_D1w_042.tif    5.592   -0.826   -0.430   90.000    -2.00     2.00     1       40.000     284285
+10 Jul 2022 16:31:39   4_ReMoB2_15pGPa_295psi_P1_C6_D1w_043.tif    5.592   -0.836   -0.395   90.000    -2.00     2.00     1       40.000     284149

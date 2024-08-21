@@ -1,0 +1,7 @@
+Data collection values for: 2_ReMoB2_150bars_0p6GPa_Au_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+28 Feb 2023 13:31:23   2_ReMoB2_150bars_0p6GPa_Au_P1_C6_D1w_017.tif    9.969   -0.186   -0.120   90.000    -2.00     2.00     1       40.000     143346

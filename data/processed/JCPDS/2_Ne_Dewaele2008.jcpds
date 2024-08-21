@@ -1,0 +1,13 @@
+VERSION: 4
+COMMENT: Neon FCC (Vinet, Eewaele PRB 2008)  
+K0:       1.07
+K0P:       8.4
+SYMMETRY: CUBIC
+A:      4.46367
+ALPHAT:      0.000000
+DIHKL:   2.5774    100.    1.00    1.00    1.00
+DIHKL:   2.2321     40.    2.00    0.00    0.00
+DIHKL:   1.5783     25.    2.00    2.00    0.00
+DIHKL:   1.3460     30.    3.00    1.00    1.00
+DIHKL:   1.2887     12.    2.00    2.00    2.00
+DIHKL:   1.1160      6.    4.00    0.00    0.00

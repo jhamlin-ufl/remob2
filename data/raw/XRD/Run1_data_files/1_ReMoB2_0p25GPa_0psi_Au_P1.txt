@@ -1,0 +1,7 @@
+Data collection values for: 1_ReMoB2_0p25GPa_0psi_Au_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+10 Jul 2022 13:51:33   1_ReMoB2_0p25GPa_0psi_Au_P1_C1_D1w_020.tif    5.607   -0.823   -0.384   90.000    -2.00     2.00     1       40.000     299418

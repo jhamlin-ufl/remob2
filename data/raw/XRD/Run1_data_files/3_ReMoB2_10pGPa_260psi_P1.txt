@@ -1,0 +1,12 @@
+Data collection values for: 3_ReMoB2_10pGPa_260psi_P1
+
+Sample stack: BMDHP, Detector: 1M
+
+Timestamp              File Name                         Cen X    Cen Y    Sam Z   Det. Y    Start      End  Images  Exp. time        CPS
+
+10 Jul 2022 15:41:37   3_ReMoB2_10pGPa_260psi_P1_C1_D1w_032.tif    5.595   -0.806   -0.428   90.000    -2.00     2.00     1       40.000     288832
+10 Jul 2022 15:42:22   3_ReMoB2_10pGPa_260psi_P1_C2_D1w_033.tif    5.595   -0.809   -0.409   90.000    -2.00     2.00     1       40.000     288697
+10 Jul 2022 15:43:07   3_ReMoB2_10pGPa_260psi_P1_C3_D1w_034.tif    5.595   -0.794   -0.425   90.000    -2.00     2.00     1       40.000     288625
+10 Jul 2022 15:43:51   3_ReMoB2_10pGPa_260psi_P1_C4_D1w_035.tif    5.595   -0.805   -0.443   90.000    -2.00     2.00     1       40.000     288500
+10 Jul 2022 15:44:36   3_ReMoB2_10pGPa_260psi_P1_C5_D1w_036.tif    5.595   -0.822   -0.426   90.000    -2.00     2.00     1       40.000     288412
+10 Jul 2022 15:45:21   3_ReMoB2_10pGPa_260psi_P1_C6_D1w_037.tif    5.595   -0.833   -0.395   90.000    -2.00     2.00     1       40.000     288202
